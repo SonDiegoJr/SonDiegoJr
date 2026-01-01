@@ -7,9 +7,6 @@ Passionate about designing intelligent systems.
 
 
 
-
-
-
 ## Languages and Tools
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c">
